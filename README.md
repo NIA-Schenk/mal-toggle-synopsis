@@ -9,7 +9,7 @@ This extension is perfect for adding shows to your "Plan to Watch" list without 
 As you can see in the GIF above, the synopsis gets hidden even before the page starts to load. When the page has finished loading, a button gets added which toggles the synopsis's visibility.
 ## Installing from source
 This repository is not published to the Chrome Web Store, so you'll have to download the zip file and install it manually. Here's how to do so:
-1. Go to the [releases page](https://github.com/NIA-Schenk/mal-toggle-synopsis/releases) and download the latest release .zip-file <i>(not the source code)</i>.
+1. Go to the [releases page](/releases) and download the latest release .zip-file <i>(not the source code)</i>.
 2. Unzip the downloaded file.
 3. Go to your browser's extensions page (usually `chrome://extensions`; if this does not work, try replacing `chrome` with the name of your browser (ex. `brave://extensions` or `edge://extensions` or use the extensions button) and enable developer mode if you haven't already:<br>![image](https://github.com/user-attachments/assets/5fed6744-fd3b-46c4-bca7-aa9422aae5cc)
 4. Click "Load unpacked" and navigate to the downloaded and unzipped folder:<br>![image](https://github.com/user-attachments/assets/e430ff67-944e-4f85-8381-f6d6dcdd30a0)
