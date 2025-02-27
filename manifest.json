@@ -1,13 +1,10 @@
 {
   "manifest_version": 3,
   "name": "MAL Synopsis Toggler",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Toggle the visibility of anime and manga plot summaries on MyAnimeList.net",
   "permissions": ["activeTab", "storage"],
   "host_permissions": ["*://myanimelist.net/*"],
-  "background": {
-    "service_worker": "background.js"
-  },
   "content_scripts": [
     {
       "matches": ["*://myanimelist.net/*"],
