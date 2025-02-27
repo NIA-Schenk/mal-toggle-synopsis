@@ -5,8 +5,9 @@ I've tested this extension on Brave and Google Chrome, which are both Chromium-b
 ## What does the extension do and why would I want it to do it?
 This extension is perfect for adding shows to your "Plan to Watch" list without accidentally seeing spoilers in the synopsis. It's also useful if you're watching a show and want to add the next season without revealing plot details. It works by injecting CSS into the page to hide the synopsis by default, with a button that lets you toggle its visibility as needed.
 ## What can I expect visually?
-![demo](https://github.com/user-attachments/assets/993d24bb-a543-462c-a4f2-1d84604f575c)<br>
-As you can see in the GIF above, the synopsis gets hidden even before the page starts to load. When the page has finished loading, a button gets added which toggles the synopsis's visibility.
+![demo](https://github.com/user-attachments/assets/993d24bb-a543-462c-a4f2-1d84604f575c)<br>![demo2](https://github.com/user-attachments/assets/14127a9f-6178-4d6e-965c-b64f5bf45a7e)
+
+As you can see in the GIFs above, the synopsis gets hidden even before the page starts to load. When the page has finished loading, a button gets added which toggles the synopsis's visibility.
 ## Installing from source
 This repository is not published to the Chrome Web Store, so you'll have to download the zip file and install it manually. Here's how to do so:
 1. Go to the [releases page](https://github.com/NIA-Schenk/mal-toggle-synopsis/releases) and download the latest release .zip-file <i>(not the source code)</i>.
